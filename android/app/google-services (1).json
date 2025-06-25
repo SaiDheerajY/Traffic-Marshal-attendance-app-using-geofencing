@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "527163525459",
+    "project_id": "traffatt",
+    "storage_bucket": "traffatt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527163525459:android:acd0555f1937d03e3479a6",
+        "android_client_info": {
+          "package_name": "com.TraffAtt.att"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlP4G9Db_RzUR_V-oErns3JOTt3wzgg78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527163525459:android:b1326af58d4cdc483479a6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlP4G9Db_RzUR_V-oErns3JOTt3wzgg78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527163525459:android:fd4bd0f3f19122bc3479a6",
+        "android_client_info": {
+          "package_name": "com.example.traff_att_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlP4G9Db_RzUR_V-oErns3JOTt3wzgg78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "traffatt",
+          "appId": "1:527163525459:android:fd4bd0f3f19122bc3479a6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "traffatt",
+          "configurations": {
+            "android": "1:527163525459:android:fd4bd0f3f19122bc3479a6",
+            "ios": "1:527163525459:ios:42485f4765707c1f3479a6",
+            "macos": "1:527163525459:ios:42485f4765707c1f3479a6",
+            "web": "1:527163525459:web:321ee0e2cf0cf0313479a6",
+            "windows": "1:527163525459:web:321ee0e2cf0cf0313479a6"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
